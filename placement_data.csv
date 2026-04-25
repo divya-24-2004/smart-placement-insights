@@ -1,0 +1,101 @@
+student_id,name,cgpa,skills,internships,placed,salary
+1000,Aarav,6.57,"NLP, Statistics, R, Power BI",Research Assistant,Yes,414171
+1001,Vihaan,7.74,"Big Data, Machine Learning, Excel, Data Visualization",Software Dev Intern,Yes,529148
+1002,Aditya,6.67,"Big Data, Power BI, Excel, NLP",None,No,0
+1003,Sai,8.55,"R, Cloud Computing, SQL",None,Yes,662078
+1004,Arjun,9.55,"SQL, Tableau, Data Visualization, Python","Data Analyst Intern, Marketing Intern",Yes,714784
+1005,Aryan,9.62,"Machine Learning, NLP",Software Dev Intern,Yes,789000
+1006,Ishaan,8.42,"Excel, Statistics, NLP, Python",None,No,0
+1007,Avni,8.01,"Power BI, Python",Marketing Intern,Yes,556808
+1008,Ananya,7.65,"Statistics, Cloud Computing, Big Data","Business Analyst Intern, Marketing Intern",No,0
+1009,Diya,9.03,"R, Statistics, Python",None,Yes,671320
+1010,Rohan,7.52,"Power BI, Cloud Computing",None,Yes,564152
+1011,Siddharth,6.72,"NLP, Cloud Computing, R",Marketing Intern,No,0
+1012,Ishani,8.7,"NLP, SQL, Data Visualization","Marketing Intern, Data Analyst Intern",No,0
+1013,Kavya,9.63,"Tableau, R, Machine Learning","Marketing Intern, Software Dev Intern",Yes,740237
+1014,Myra,6.95,"Big Data, Tableau, NLP, Python",None,No,0
+1015,Saanvi,8.04,"Tableau, Power BI, Big Data, Cloud Computing",Research Assistant,No,0
+1016,Vivaan,6.51,"NLP, Data Visualization, Tableau, Power BI",Research Assistant,No,0
+1017,Kabir,8.14,"Cloud Computing, Machine Learning, R","Business Analyst Intern, Research Assistant",Yes,607594
+1018,Reyansh,7.8,"SQL, Excel, Power BI, R",Business Analyst Intern,Yes,618869
+1019,Zoya,6.51,"SQL, Excel, Machine Learning, Big Data",None,Yes,401497
+1020,Ayaan,9.63,"Machine Learning, Cloud Computing, Python",None,Yes,755464
+1021,Krishna,9.13,"Data Visualization, Power BI, Cloud Computing","Software Dev Intern, Research Assistant",No,0
+1022,Meera,7.4,"Statistics, SQL, Excel",Software Dev Intern,Yes,547753
+1023,Pranav,6.87,"Tableau, Big Data",Software Dev Intern,Yes,453265
+1024,Rhea,9.23,"Tableau, Python",Marketing Intern,Yes,696262
+1025,Sanya,6.62,"R, Big Data","Marketing Intern, Data Analyst Intern",Yes,495331
+1026,Tanish,8.88,"Big Data, Statistics, Cloud Computing",Software Dev Intern,Yes,678297
+1027,Vanya,8.34,"Statistics, Cloud Computing, Tableau","Data Analyst Intern, Research Assistant",Yes,622268
+1028,Yash,8.66,"Data Visualization, Power BI",Business Analyst Intern,Yes,709028
+1029,Zara,7.47,"R, Python, SQL","Business Analyst Intern, Software Dev Intern",Yes,512816
+1030,Advait,6.88,"Cloud Computing, Excel, Machine Learning, Data Visualization","Software Dev Intern, Research Assistant",Yes,513654
+1031,Bhavya,6.86,"Data Visualization, Python, Tableau, Machine Learning","Software Dev Intern, Business Analyst Intern",Yes,511139
+1032,Chirag,6.9,"Data Visualization, Statistics",Business Analyst Intern,Yes,526786
+1033,Dev,7.92,"SQL, Excel, Python",Research Assistant,No,0
+1034,Esha,8.06,"Python, Statistics","Business Analyst Intern, Software Dev Intern",No,0
+1035,Falguni,6.99,"SQL, Python, Power BI, Big Data",Business Analyst Intern,Yes,492215
+1036,Gaurav,8.32,"Excel, Statistics, Big Data","Software Dev Intern, Business Analyst Intern",Yes,644157
+1037,Harsh,8.9,"R, Tableau, Excel, Power BI",Data Analyst Intern,Yes,707390
+1038,Inder,6.88,"Tableau, NLP",None,No,0
+1039,Jiya,7.81,"Big Data, Tableau",None,Yes,563233
+1040,Karan,8.58,"SQL, Statistics","Software Dev Intern, Marketing Intern",Yes,641623
+1041,Lokesh,6.67,"Data Visualization, R",Software Dev Intern,No,0
+1042,Manav,8.2,"Cloud Computing, Python",None,No,0
+1043,Nisha,9.67,"Power BI, Machine Learning",Business Analyst Intern,Yes,761523
+1044,Ojas,7.53,"Big Data, Machine Learning","Marketing Intern, Research Assistant",No,0
+1045,Pari,9.02,"Data Visualization, Cloud Computing, Big Data",Research Assistant,Yes,657499
+1046,Rahul,7.29,"Data Visualization, Python, Big Data","Data Analyst Intern, Business Analyst Intern",No,0
+1047,Sameer,8.22,"SQL, NLP","Marketing Intern, Data Analyst Intern",Yes,626223
+1048,Tanvi,6.96,"Tableau, NLP, Machine Learning",Research Assistant,No,0
+1049,Utkarsh,8.65,"SQL, Python, Excel","Data Analyst Intern, Marketing Intern",Yes,656599
+1050,Varun,7.95,"R, Python, Statistics",None,No,0
+1051,Waman,7.69,"Cloud Computing, Excel, Data Visualization",None,No,0
+1052,Xavier,8.23,"Excel, Tableau, R","Data Analyst Intern, Research Assistant",No,0
+1053,Yuvraj,9.13,"NLP, Machine Learning, SQL","Software Dev Intern, Research Assistant",Yes,746162
+1054,Zeeshan,8.4,"Statistics, Excel, R, Data Visualization",None,No,0
+1055,Abhay,7.49,"Big Data, Machine Learning, Statistics","Software Dev Intern, Business Analyst Intern",No,0
+1056,Bhuvan,6.99,"Excel, Big Data",None,No,0
+1057,Chetan,8.23,"Python, Machine Learning, NLP",Software Dev Intern,No,0
+1058,Daksh,9.62,"Big Data, Statistics, Cloud Computing",Marketing Intern,Yes,729938
+1059,Ekta,9.39,"Data Visualization, Excel, Big Data, SQL",None,Yes,730752
+1060,Farhan,9.04,"Statistics, Python, Power BI","Marketing Intern, Software Dev Intern",Yes,716662
+1061,Gopal,6.57,"Machine Learning, Cloud Computing",Data Analyst Intern,Yes,483521
+1062,Hemant,6.79,"Tableau, SQL, R",None,No,0
+1063,Isha,6.77,"Machine Learning, NLP",None,Yes,472238
+1064,Jatin,6.72,"Big Data, Data Visualization",None,No,0
+1065,Kunal,7.37,"Python, Excel","Software Dev Intern, Data Analyst Intern",No,0
+1066,Lata,7.74,"Data Visualization, Power BI","Data Analyst Intern, Software Dev Intern",No,0
+1067,Mukul,9.52,"Python, Big Data, SQL, Data Visualization","Research Assistant, Business Analyst Intern",Yes,747163
+1068,Naman,8.59,"SQL, Python",None,Yes,653309
+1069,Om,8.96,"SQL, Power BI, Statistics",None,Yes,719224
+1070,Pankaj,7.08,"Data Visualization, Tableau, SQL","Business Analyst Intern, Marketing Intern",No,0
+1071,Qasim,7.66,"Big Data, Machine Learning, R, Python",Marketing Intern,Yes,595561
+1072,Rishi,8.78,"Big Data, NLP, Machine Learning",None,Yes,647067
+1073,Soham,6.85,"Python, Power BI, Machine Learning",None,No,0
+1074,Tarun,8.7,"Power BI, Tableau",Research Assistant,Yes,687939
+1075,Uday,8.92,"Cloud Computing, Power BI, Machine Learning",None,No,0
+1076,Vijay,6.85,"Machine Learning, Tableau, NLP","Software Dev Intern, Research Assistant",No,0
+1077,Wasim,9.69,"Cloud Computing, Data Visualization, Tableau",None,Yes,725800
+1078,Yatin,6.97,"Machine Learning, NLP, Statistics, R",Marketing Intern,Yes,497805
+1079,Zain,8.81,"SQL, Excel, Machine Learning, Python",None,Yes,641878
+1080,Amit,8.66,"Python, Data Visualization, Statistics",None,No,0
+1081,Barun,7.56,"Excel, NLP, SQL",Data Analyst Intern,Yes,533505
+1082,Deepak,6.66,"Data Visualization, Cloud Computing, R, Excel","Software Dev Intern, Data Analyst Intern",No,0
+1083,Firoz,9.63,"Python, Big Data, NLP, Cloud Computing",None,Yes,759616
+1084,Gautam,6.67,"Power BI, Machine Learning, Excel, Statistics",Marketing Intern,No,0
+1085,Hitesh,6.77,"Python, SQL","Data Analyst Intern, Marketing Intern",No,0
+1086,Irfan,9.7,"Excel, Big Data, NLP","Business Analyst Intern, Data Analyst Intern",Yes,787677
+1087,Javed,9.26,"Cloud Computing, Statistics, SQL","Data Analyst Intern, Research Assistant",Yes,744267
+1088,Kamal,6.58,"R, SQL, Excel, Cloud Computing",Software Dev Intern,Yes,481086
+1089,Lucky,6.9,"Machine Learning, Statistics, SQL",Marketing Intern,No,0
+1090,Mohit,6.67,"Tableau, Big Data, Python","Research Assistant, Business Analyst Intern",Yes,487908
+1091,Nitin,9.2,"Machine Learning, Big Data, Statistics",Software Dev Intern,Yes,704103
+1092,Osman,8.17,"SQL, Big Data, Power BI, Machine Learning",None,Yes,624838
+1093,Piyush,8.02,"Machine Learning, Tableau, Big Data",Software Dev Intern,No,0
+1094,Rajat,8.15,"Data Visualization, Python, Cloud Computing",None,No,0
+1095,Sumit,8.93,"Machine Learning, Big Data","Business Analyst Intern, Data Analyst Intern",Yes,667803
+1096,Tushar,7.86,"Python, Excel, SQL",Research Assistant,No,0
+1097,Umesh,6.82,"Power BI, Tableau, SQL, NLP",None,Yes,505908
+1098,Vikram,9.07,"R, Machine Learning, Cloud Computing",Business Analyst Intern,Yes,696203
+1099,Yogesh,6.83,"Data Visualization, Power BI, Excel","Business Analyst Intern, Marketing Intern",No,0
